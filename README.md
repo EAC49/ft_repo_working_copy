@@ -6,4 +6,7 @@
 
 **TEXT WITH 2 ASTERIKS**
 
-*TEXT WITH 1 ATERIKS*
+*TEXT WITH 1 ASTERIKS*
+
+![FINTECH](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191125181621/What-is-FinTech.png)
+
